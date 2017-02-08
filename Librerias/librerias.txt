@@ -1,0 +1,4 @@
+Preprocesamiento_I 
+sobre pytho 2.7
+
+pip install python-pptx
