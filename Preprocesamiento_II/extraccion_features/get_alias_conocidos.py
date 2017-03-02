@@ -225,14 +225,14 @@ def get_alias_conocidos(text):
 		
 #Modificar las rutas en estas instrucciones
 #with open("/home/abue/Documents/nombres.txt", 'r') as f:
-with open("/home/figo/Documentos/EJER/nombres.txt", 'r') as f:
+with open("/home/otaivin/Trabajo/MineriaTxt/data/nombres.txt", 'r') as f:
 	archivos = [x.strip() for x in f.read().split('\n') if len(x.strip())>0]
 
 i = 0
 with open("alias_conocidos.txt", 'a') as fwrite:
 	for archivo in archivos:
 		print(archivo,file=fwrite)
-		with open("/home/abue/Documents/datos_limpios/"+archivo, 'r') as f:
+		with open("/home/otaivin/Trabajo/MineriaTxt/data/txtlimpios/"+archivo, 'r') as f:
 			texto = f.read()
 			for alias in set(get_alias_conocidos(texto)):
 				print(alias,file=fwrite)

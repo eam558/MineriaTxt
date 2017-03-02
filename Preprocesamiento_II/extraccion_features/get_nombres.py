@@ -1,7 +1,10 @@
+#!/usr/bin/env python
+#_*_ coding:utf-8 _*_
+
 import re
 import json
 
-with open("/home/serankua/proyectos/docs_sala_de_crisis/preprocesamiento/extraccion_features/diccionario_nombres.json", 'r') as f:
+with open("/home/otaivin/Trabajo/MineriaTxt/Preprocesamiento_II/extraccion_features/diccionario_nombres.json", 'r') as f:
 	dicc_nombres = json.load(f)
 
 pronombres=['adonde', 'adónde', 'algo', 'alguien', 'alguna', 'algunas', 'alguno', 'algunos', 'ambas', 'ambos', 'aquel', 'aquél', 'aquella', 'aquélla', 'aquellas', 'aquéllas', 'aquello', 'aquellos', 'aquéllos', 'bastante', 'bastantes', 'como', 'cómo', 'conmigo', 'consigo', 'contigo', 'cual', 'cual', 'cuál', 'cuales', 'cuáles', 'cualesquiera', 'cualquiera', 'cuando', 'cuándo', 'cuanta', 'cuánta', 'cuantas', 'cuántas', 'cuanto', 'cuánto', 'cuantos', 'cuántos', 'cuya', 'cuyas', 'cuyo', 'cuyos', 'demás', 'demasiada', 'demasiadas', 'demasiado', 'demasiados', 'donde', 'dónde', 'él', 'ella', 'ellas', 'ello', 'ellos', 'esa', 'ésa', 'esas', 'ésas', 'ese', 'ése', 'eso', 'esos', 'ésos', 'esta', 'ésta', 'estas', 'éstas', 'este', 'éste', 'esto', 'estos', 'éstos', 'estotra', 'estotro', 'idem', 'ídem', 'la', 'las', 'le', 'les', 'lo', 'lo', 'los', 'me', 'media', 'medias', 'medio', 'medios', 'mí', 'misma', 'mismas', 'mismo', 'mismos', 'mucha', 'muchas', 'mucho', 'muchos', 'nada', 'nadie', 'ninguna', 'ningunas', 'ninguno', 'ningunos', 'nos', 'nosotras', 'nosotros', 'os', 'otra', 'otras', 'otro', 'otros', 'poca', 'pocas', 'poco', 'pocos', 'qué', 'que', 'qué', 'quien', 'quién', 'quienes', 'quiénes', 'quienesquiera', 'quienquier', 'quienquiera', 'se', 'sí', 'tal', 'tales', 'tanta', 'tantas', 'tanto', 'tantos', 'te', 'ti', 'toda', 'todas', 'todo', 'todos', 'tú', 'una', 'unas', 'uno', 'unos', 'usted', 'ustedes', 'varias', 'varios', 'vos', 'vosotras', 'vosotros', 'yo']
