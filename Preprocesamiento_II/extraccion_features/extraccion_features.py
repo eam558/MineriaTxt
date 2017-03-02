@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# _*_ coding: utf-8 _*_
+
 import re
 import pandas as pd
 from nltk import ngrams
@@ -215,8 +218,8 @@ def edad(texto):
 					try:
 						
 						stri=str(re.search('fecha.+nac.+\d+.+\d+.+\d+', entrevista).group(0))
-						año_nac= int(re.search('\d{4}', stri).group(0))
-						edad=2016-año_nac
+						anho_nac= int(re.search('\d{4}', stri).group(0))
+						edad=2016-anho_nac
 						return edad
 					except:
 						return ''
