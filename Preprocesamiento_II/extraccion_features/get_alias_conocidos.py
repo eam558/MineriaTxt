@@ -1,4 +1,11 @@
-import re 
+#!/usr/bin/env python
+#_*_ coding:utf-8 _*_
+from __future__ import print_function
+import re
+
+
+
+#Por Revisar
 
 def quitar_tildes(word):
     return word.replace("á", "a").replace("é", "e").replace("í", "i").replace("ó", "o").replace("ú", "u")
@@ -216,19 +223,20 @@ def get_alias_conocidos(text):
 			done = False
 	return ans
 		
-
-with open("/home/abue/Documents/nombres.txt", 'r') as f:
+#Modificar las rutas en estas instrucciones
+#with open("/home/abue/Documents/nombres.txt", 'r') as f:
+with open("/home/figo/Documentos/EJER/nombres.txt", 'r') as f:
 	archivos = [x.strip() for x in f.read().split('\n') if len(x.strip())>0]
 
 i = 0
 with open("alias_conocidos.txt", 'a') as fwrite:
 	for archivo in archivos:
-		print(archivo, file=fwrite)
+		print(archivo,file=fwrite)
 		with open("/home/abue/Documents/datos_limpios/"+archivo, 'r') as f:
 			texto = f.read()
 			for alias in set(get_alias_conocidos(texto)):
-				print(alias, file=fwrite)
-			print("//", file=fwrite)
+				print(alias,file=fwrite)
+			print("//",file=fwrite)
 		i += 1
 		if i in [100, 300, 500, 700]:
 			print("Van "+str(i))
