@@ -4,3 +4,6 @@ Preprocesamiento_I
 pip install python-pptx
 pip install tika
 
+pip install scipy
+pip install numpy
+pip install -U scikit-learn

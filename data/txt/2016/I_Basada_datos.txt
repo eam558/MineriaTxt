@@ -1,0 +1,189 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I_Basada_datos
+
+
+Id Modo de
+
+tarea
+
+Nombre de tarea Duración Comienzo Fin PredecesorasNombres de los recursos
+
+1 Migracion y ajuste software Mineria 
+Texto
+
+15 días 22/02/17 14/03/17
+
+2 Exposicion de aplicativos operacional 4 horas 22/02/17 22/02/17 CT arias;Elias Amado;CS Tibasosa
+
+3 Planeacion 4 horas 22/02/17 22/02/17 2 CT arias;Elias Amado
+
+4 Modelo de datos BD Operacional 7 días 23/02/17 3/03/17
+
+5 Generar modelo entidad relacion 
+Base de datos Operacional
+
+4 horas 23/02/17 23/02/17 3 SS Santofimio
+
+6 Crear Diccionario de datos Base de
+datos Operacional
+
+2,5 días 23/02/17 27/02/17 5 SS Santofimio
+
+7 Crear Diccionario de datos Base de
+datos Operacional
+
+1,5 días 28/02/17 1/03/17 6;22 SS Santofimio
+
+8 Estructurar documentos a partir 
+del modelo
+
+2 días 2/03/17 3/03/17 7 SS Santofimio;Elias 
+Amado;woombat
+
+9 Darle Sabor militar 2,5 días 23/02/17 27/02/17
+
+10 Generar conceptos y palabras 
+clave para mineria
+
+2 días 23/02/17 24/02/17 3 CT arias
+
+11 Coordinar la inclucion de palabras 
+clave
+
+4 horas 27/02/17 27/02/17 10 CT arias;Elias Amado
+
+12 Migrar programacion al cluster 
+Inteligencia basada en datos
+
+9,5 días 23/02/17 8/03/17
+
+13 Migracion codigo de 
+Preprocesamiento
+
+7,63 días 23/02/17 6/03/17
+
+14 Limpieza 7,63 días 23/02/17 6/03/17
+
+15 armar_corpus.py 3 horas 23/02/17 23/02/17 3 Elias Amado
+
+16 corpus_to_json.py 4 horas 23/02/17 23/02/17 15 Elias Amado
+
+Página 1
+
+
+
+Id Modo de
+
+tarea
+
+Nombre de tarea Duración Comienzo Fin PredecesorasNombres de los recursos
+
+17 Grupo_armado.py 8 horas 23/02/17 24/02/17 16 Elias Amado
+
+18 Limpieza.py 5 horas 27/02/17 28/02/17 17;11Elias Amado
+
+19 run_process_par_1.py 1 hora 28/02/17 28/02/17 18 Elias Amado
+
+20 to_json.py 1 hora 28/02/17 28/02/17 19 Elias Amado
+
+21 legibilidad.py 5 horas 6/03/17 6/03/17 20;8 Elias Amado
+
+22 Presentacion proyecto Hydra 
+CI3MO
+
+4 horas 28/02/17 28/02/17 Elias Amado;MY. Medina;SS 
+Santofimio;CT arias;Luis Edmundo
+
+23 Migracion codigo de 
+Procesamiento
+
+1,88 días 6/03/17 8/03/17
+
+24 alias_conocidos 1 hora 6/03/17 6/03/17 21 Elias Amado
+
+25 get_alias_conocidos 3 horas 6/03/17 7/03/17 24 Elias Amado
+
+26 get_nombre 2 horas 7/03/17 7/03/17 25 Elias Amado
+
+27 get_verbos 2 horas 7/03/17 7/03/17 26 Elias Amado
+
+28 jsonnify_alias_conocidos 1 hora 7/03/17 7/03/17 27 Elias Amado
+
+29 Extraccion de features 2 horas 7/03/17 7/03/17 28 Elias Amado
+
+30 normalidad 1 hora 8/03/17 8/03/17 29 Elias Amado
+
+31 stemming 1 hora 8/03/17 8/03/17 30 Elias Amado
+
+32 get_coordenadas.py 2 horas 8/03/17 8/03/17 31 Elias Amado
+
+33 Procesar informacion 1,5 días 8/03/17 9/03/17
+
+Página 2
+
+
+
+Id Modo de
+
+tarea
+
+Nombre de tarea Duración Comienzo Fin PredecesorasNombres de los recursos
+
+34 procesar toda la informacion 1 día 8/03/17 9/03/17 23;11woombat;Elias Amado
+
+35 Verificacion de resultados 4 horas 9/03/17 9/03/17 34 CT arias;Elias Amado;SS Santofimio
+
+36 Preparacion de servidor Aplicacones 2 días 22/02/17 24/02/17 woombat
+
+37 Conecion angular hadoop 3 días 24/02/17 1/03/17 36 woombat
+
+38 Publicacion Aplicativo Visualizacion 2 días 10/03/17 13/03/17
+
+39 Frontend 1 día 10/03/17 10/03/17 36;35;37Elias Amado
+
+40 Backend 1 día 13/03/17 13/03/17 39 Elias Amado
+
+41 Pruebas 1 día 14/03/17 14/03/17 40 CT arias;Elias Amado;SS Santofimio;MY. Medina
+
+Página 3
+
+

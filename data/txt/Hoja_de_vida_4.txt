@@ -1,0 +1,309 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Hoja de vida 3.doc
+
+
+Elias Amado Martinez 
+Celular: 3004912668. 
+Fijo: 6452850 
+Carrera 33 N 30- 68  Bogotá, Colombia 
+Eam55@hotmail.com; amadoe@yahoo.com  
+https://www.linkedin.com/in/eliasamado 
+
+Perfil profesional 
+Ingeniero de sistemas de la universidad nacional, Gerente de proyectos certificado por el PMI e ITIL CSI. Con capacidad 
+comprobada para adquirir conocimientos rápidamente, 
+Especialista en Proyecto informáticos, con amplia experiencia en inteligencia de negocios y BIG DATA que permiten 
+obtener indicadores de la mayor  relevancia para ajustar la operación a la dirección misional de la organización, Experto 
+en arquitectura de software, diseño e implementación de sistemas informáticos que permiten a la organización estructurar 
+su área de TI acorde a los objetivos estratégicos de la compañía. Durante mi vida profesional  me he desempeñado como 
+desarrollador de software, líder  técnico del área de inteligencia de negocios y gestor de proyectos. He trabajado como 
+analista de desarrollo diseñando sistemas para más de diez mil usuarios con más de veinte millones de transacciones 
+mensuales, he coordinado y diseñado bodegas de datos con cuadros de mando integrales (BSC) con grandes volúmenes 
+de información, incluyendo minería de datos.  
+Certificado Project Management Professional Número PMP #1660155  
+Certificado ITIL intermedio en Mejora continua de servicio (CSI) Número ITIL/089494  
+Certificado Microsoft certified profesional developer MCPID 3178119 
+Aspirante a Master en Dirección Estratégica en Tecnologías de la Información 
+
+Habilidades y competencias 
+Soy una persona altamente responsable, seria, honesta y cumplidora de su deber que realiza con eficiencia las funciones y 
+obligaciones que le sean asignadas, Excelente capacidad de liderazgo, buenas relaciones interpersonales y de trabajo en 
+equipo. 
+
+Objetivo 
+Por la experiencia y conocimientos obtenidos en mi vida profesional, tengo las competencias para ser director o Gerente 
+de proyectos PMP, en proyectos de Inteligencia de negocios, BIG DATA, IT, software, cambio de tecnología,  Arquitecto 
+de software. 
+
+Conocimientos 
+Tengo conocimientos comprobados en planeación estratégica de sistemas de información, gerencia de proyectos 
+certificado PMP; en las buenas prácticas de servicio ITIL nivel intermedio CSI; BIG DATA diseño e implementación de 
+data lake con Hadoop, pyspark, implementación de casos de uso y arquitectura de información; Inteligencia de negocios, 
+diseño de BSC, data marts, bodegas de datos, indicadores, con Microsoft Analysis services, integration services, cognos 7, 
+SAP BW, aplicaciones orientadas a soporte de indicadores para la gestión de políticas institucionales. 
+Amplia trayectoria en metodologías de desarrollo, RUP, Scrum; en Bases de Datos relacionales como SQL Server, 
+SyBase, Oracle. Sistemas operativos Microsoft Windows, Linux. POO, patrones de diseño, UML, desarrollos WEB, 
+aplicaciones orientadas a servicios y procesos de Ofimática, herramientas de desarrollo: Punto NET, Power Builder, c++ 
+Builder, Visual Basic. 
+Conocimientos en Salud: aseguramiento EPS, afiliaciones, cuentas médicas, gestión de red, modelo de prestación de 
+servicios ambulatorios y hospitalarios, gestión de indicadores, reportes a entes de control y manejo de grandes volúmenes 
+de datos. 
+
+Experiencia 
+
+Noviembre 2016 – Actual Comando de Apoyo de combate de  Inteligencia Militar (CAIMI) 
+Cargo: OPS Asesor Externo experto en Arquitectura de Información y BIG DATA 
+Funciones: 
+
+
+
+Prestar servicios de asesoría al CAIMI en la arquitectura de datos y las tecnologías de las información, para la generación 
+de inteligencia militar basada en datos, Estructuración de un data warehouse para grandes volúmenes de información 
+BIG DATA bajo el ecosistema Hadoop. 
+
+Proyecto: Arquitectura BIG DATA CAIMI. 
+Jefe Directo: Luis Edmundo Suarez, teléfono: 3102201904, Cargo; Director estratégico del proyecto  
+Rol desempeñado: Arquitecto de información y Administrador BIG DATA, Gerente de proyecto. 
+
+ 
+
+Junio  2015 – Noviembre 2016 Unidad de Información y Análisis Financiero (UIAF), teléfono 57(1)2885222 
+Cargo: Profesional Especializado código 2028 grado 22 
+Funciones: 
+
+Apoyar a la subdirección de informática en la formulación, coordinación y ejecución de las políticas  y planes generales 
+en temas relacionados con la arquitectura de información, de acuerdo con los parámetros de la Entidad, Analizar y 
+diseñar los proyectos de tecnologías de la información de su competencia que le sean asignados. 
+
+Proyecto: Arquitectura BIG DATA UIAF 2016. 
+Jefe Directo: Luis Alejandro Navas Iannin, teléfono: 3102192188, Cargo; Subdirector de Informática  
+Rol desempeñado: Gerente de proyecto y Gestor Técnico 
+Funciones específicas: Planeación y ejecución del Proyecto de implementación de BIG DATA para la UIAF. 
+Herramienta tecnológica: Hadoop, MS Project, modelado acorde a Inmon,  Articular un cronograma, que responde a 
+las necesidades de la UIAF, coordinar y presentar a los Stakeholder el proyecto y la justificación de presupuesto, 
+diseñar la arquitectura de la solución con Hadoop, coordinar los convenios externos la asignación de recursos.  
+Logros: Articular un proyecto acorde a las necesidades de la UIAF 
+
+Enero 2013–Mayo 2015 Health on Line (Grupo Saludcoop) Bogotá, teléfonos 6361741 – 6925217 Ext 101 -105 -107  
+Cargo: Gestor de proyectos senior 
+Funciones: Gestionar, asegurar y responder por la planeación, dimensionamiento y ejecución de proyectos, garantizando 
+el cumplimiento de los parámetros definidos en cuanto a tiempo, Costo, Alcance, calidad, satisfacción del cliente, Riesgos 
+y Recursos, ajustado a las mejores prácticas del PMI. Coordinar la implementación de las mejores prácticas de gestión de 
+proyectos dentro de la compañía en el área que abarque sus funciones 
+
+ 
+
+Agosto 2014–Mayo 2015   Health on Line (Grupo Saludcoop) Bogotá 
+Proyecto: Gestión del proyecto de inteligencia de negocios para el proyecto esalud. 
+Jefe Directo: Sandra Liliana Ángel Mora, teléfono: 3008076387, Cargo: Gerente de proyectos 
+Rol desempeñado: Gestor Técnico BI 
+Funciones específicas: Planeación y ejecución del Proyecto de implementación de BI para el proyecto esalud. 
+Herramienta tecnológica: SAP BW, MS Project, modelo multidimensional metodología de Kimball. 
+Logros: Articular un cronograma, que responde a las necesidades de Cliente teniendo como referencia la 
+metodología ASAP,  y el modelado multidimensional de Kimball,  por valor de dos mil millones de pesos; 
+Construcción de los modelos multidimensionales de beneficiarios, medicamentos, proveedores de servicios de 
+salud 3 de los 10 modelos planeados. 
+
+Enero 2013–Marzo 2014  Health on Line (Grupo Saludcoop) Bogotá 
+Proyecto: Implementación de la solución tecnología habilitadora de los servicios de salud integral de 
+ECOPETROL. 
+Jefe Directo: Alejandro Vargas  teléfono: 3007785214  Cargo: Gerente de Desarrollo. 
+Rol: Coordinador de Gestión del Cambio 
+Funciones específicas: Diseño e implementación del plan de gestión del Cambio, creación de EDT, Planificación la 
+gestión del cronograma, definición las actividades, secuenciación las actividades, estimación los recursos de las 
+actividades, estimación la duración de las actividades, desarrollo del cronograma, control y seguimiento del mismo.  
+
+
+
+Logros: Logre articular un proyecto que responde a las necesidades de Cliente teniendo como referencia la 
+metodología del PMI, para el área de gestión de cambio organizacional (capacitación, comunicaciones, 
+sensibilización y sostenibilidad), en la actualidad se sigue el proyecto acorde a lo planeado, obteniendo los 
+mejores resultados y reconocimiento de la compañía. 
+ 
+
+Junio 2008 –Febrero 2013 Health on Line (Grupo Saludcoop) Bogotá, teléfonos 6361741 – 6925217 Ext 101 -105 -107  
+Jefe Directo: Sonia Paredes   teléfono: 3003441841 Cargo: Gerente de DWH 
+Cargo: Analista DWH Sénior 
+
+Funciones: Generación y coordinación de los procesos y ciclo de vida para la construcción de data warehouse, 
+Construcción de políticas y cronogramas para cada uno de los componentes requeridos, Modelamiento de arquitectura 
+de información, Análisis y diseño y construcción  de modelos multidimensionales, BSC requeridos. 
+ 
+
+Proyectos: 
+Proyecto: Reestructuración del data warehouse, para el grupo empresarial SALUDCOOP que consta de 3 EPS 
+y 72 empresas anexas, en herramientas Microsoft. 
+Funciones Específicas: Diseño de metodología de desarrollo para BI (basado en el PMI), Elaboración de arquitectura 
+del DWH. Construcción de estándares de desarrollo (basados en buenas prácticas), Elaboración y seguimiento de 
+Cronogramas, selección y evaluación  de los analistas  para el proyecto, Diseño y desarrollo de data marts, con 
+indicadores para las áreas de: afiliaciones, cuentas médicas, movilidad, atenciones, órdenes, medicamentos, 
+operaciones del área de aseguramiento. Diseño de reportes a entes de control Ministerio de protección social, 
+superintendencia nacional de salud, Reportes de Unidad de pago por capitación (UPC), cuenta alto costo, 
+RIPS,Migración de Cognos y Microestrategy a Microsoft analysis services, integration services, SharePoint, SQL2008 
+R2.  
+Logro: Diseño de Metodología para el desarrollo del data warehouse y elaboración de arquitectura, elaboración 
+de proyecto de migración el cual se está ejecutado cumpliendo con las expectativas del negocio, creación de una 
+metodología y procedimiento para la generación de reportes a entes de control reportes con más de ciento 
+ochenta millones de líneas que soportan el gasto de más de dos y medio billones de pesos anuales, generación de 
+los reportes de los años 2008 a 2013. 
+ 
+
+Marzo 2005– Agosto 2008 Health on Line (Grupo Saludcoop)  Bogotá, teléfonos 6361741 – 6925217 Ext 101 -
+105 -107  
+
+Cargo: Analista desarrollo Sénior 
+Funciones: Conceptualizar y establecer la metodología de desarrollo para ambientes WEB con MS Punto Net,  
+Generar arquitectura para desarrollos Web, Análisis diseño e implementación, y puesta en marcha de proyectos de 
+desarrollo a la medida en ambiente web. 
+
+ 
+
+Proyectos: 
+Proyecto: Sistema de prestaciones económicas  para las EPS del grupo (saludcoop E.P.S. cruz Blanca E.P.S. café 
+salud E.P.S.) estuve desde el levantamiento de requerimientos hasta las implantación del sistema, realizado en 
+Punto net framework 1.4 acompañado de dos analistas de O y M. 
+Jefe Directo: Alberto Saavedra   teléfono: 3008960100, Cargo: Gerente de Tecnología 
+Funciones Específicas: Coordinación las personas del proyecto, Análisis y diseño de metodología para el desarrollo 
+con Punto Net. Análisis diseño e implementación del sistema de Prestaciones económicas. 
+Logro: Se implementó un aplicativo modular y parametrizable que permite logras el cumplimiento de nomas 
+de ley100 y políticas de las compañías  respecto a la trascripción, liquidación y pago de prestaciones 
+económicas de los afiliados. 
+
+ 
+Proyecto: Migración de Información: Por la adquisición de las dos EPS por parte de la compañía, se creó un 
+grupo para migrar la información de las bases de datos al sistema institucional. 
+Jefe Directo: Alberto Saavedra   teléfono: 3008960100, Cargo: Gerente de Tecnología 
+Funciones: Análisis y diseño de la metodología de migración, diseño y ejecución de scripts y validación de resultados. 
+Logro: Migración que se realizó en tiempo record de 4 meses, con 1 Tera de información migrada,  obteniendo el 
+reconocimiento de la empresa. 
+
+
+
+ 
+Proyecto: Sistema de biometría para el control de pacientes de alto costo para entrega de medicamentos. 
+Sistema de autenticaron biométrica mediante huella dactilar desarrollado en punto net 2005 framework 2.0 
+Jefe Directo: Alberto Saavedra   teléfono: 3008960100, Cargo: Gerente de Tecnología 
+Funciones: Análisis diseño e implementación del sistema. 
+Logros: bajar  la suplantación en un 99 %. Debido a su éxito y diseño altamente desacoplado, se ha 
+implementado en procesos de admisiones de afiliados, solicitud de requerimientos de personal, caja y control de 
+entrada de personal. 
+ 
+
+Diciembre 2002– Mayo 2005 Health on Line (Grupo Saludcoop) Bogotá 
+Cargo: Analista desarrollo Sénior 
+
+Jefe Directo: Jhon Velásquez    teléfono: 3133281753 Cargo: Gerente proyecto Pinos 
+Proyecto: Análisis y diseño e implementación del sistema de Educación  basado en herramientas multimedia bajo el 
+concepto de EPC. Junto con el sistema de evaluación y seguimiento de logros académicas, gestión de cartera y 
+admisiones. Se realizó en punto net aspx  framework 1,2,  
+Funciones: Coordinador del proyecto con metodología PMI, Diseño arquitectura y bases de datos, y componentes de 
+software, Junto con un grupo de 5 Ingenieros, creación y validación de componentes de UI con 6 diseñadores. Gestión 
+de contenido junto con 20 docentes de diferentes áreas. 
+Página http://www.gimnasiolospinos.edu.co 
+Logros: Planear y ejecutar el  en el tiempo establecido según en el cronograma. Debido al gran éxito y 
+cumplimento del anterior proyecto se me ofreció ayudar en el tema de salud. 
+
+2006–2011 Universidad de la Salle  Bogotá  Teléfonos: P.B.X.: 348 8000 Extensión: 1407 
+Docente de cátedra Facultad sistemas de información y documentación  
+
+Jefe Directo: Rut Vallejo  teléfono: 2494585 Cargo Decano de la facultad 
+Docente de las asignaturas: Ingeniería de software, teoría general de sistemas, XML, programación de bases de 
+datos, diseño de aplicaciones multimedia, telemática y redes. 
+Logro: He obtenido calificación Sobresaliente en la evaluación docente 
+
+Educación Formal 
+2016 -   I semestre,   Escuela Superior de Guerra                                        Bogotá 
+
+Título: Maestría en ciber defensa y ciber seguridad 
+ 
+
+2012 – 2015   Materias terminadas,      Universidad Internacional Iberoamericana (UNINI)      Puerto Rico  
+Universidad Europea del Atlántico (UNEATLANTICO) España 
+Titulo obtenido: Master en dirección estratégica en tecnologías de la información 
+
+2005–2006         Universidad Distrital Francisco José de Caldas   Bogotá 
+Titulo obtenido: Especialista en proyectos informáticos.  
+
+1993–2002 Universidad Nacional  Bogotá 
+Titulo obtenido: Ingeniero de sistemas. 
+
+Certificaciones 
+2013                                 PMI  Bogotá  
+
+Certificación: Project Mangement Professional. PMP Numero 1660155 
+
+2013                                 APM group (Intelling Training)  Bogotá  
+ Certificación: ITIL Intermediate certificate in  Continual Service Improvement. Numero ITIL/089494  
+
+2012                                 Exin (Intelling Training)  Bogotá 
+ Certificación: ITIL Foundation certificate in IT Service Management. 
+
+
+
+2008                                 Microsoft (Intelling Training)  Bogotá 
+Certificado Microsoft certified profesional developer MCPID 3178119 
+
+2008                                 Microsoft (Intelling Training)  Bogotá 
+Certificado Technology specialist .NET Framework  Distributed  Applications 
+
+2008                                 Microsoft (Intelling Training)  Bogotá 
+Certificado Technology specialist .NET Framework 2.0 WEB  Applications 
+
+2007                                 Microsoft (Intelling Training)  Bogotá 
+Certificado Technology specialist .NET Framework 2.0 Windows Applications 
+
+Otros Estudios 
+2015                                 CVOSOFT  elearning  
+
+Consultor Técnico en Desarrollo .BI BW Nivel Avanzado, Intensidad Horaria 80 
+2014                                 CVOSOFT  elearning 
+
+Consultor Técnico en Desarrollo .BI BW Nivel inicial, Intensidad Horaria 70 
+2012                                 PROCESIX  Bogota 
+
+Introduction to capability maturity model integration for development V1.3 
+
+2012  Software Engineering Institute (Carnegie Mellon University) (Procesix)  Bogotá 
+      Curso: Desarrollador 5 estrellas Microsoft 3 estrella 2003, curso 2 en 200 
+
+Intereses Soy cristiano, me gusta el deporte, practico el Baloncesto. 
+
+Agradezco su atención y estoy disponible para cualquier información adicional o adjuntar  las certificaciones 
+correspondientes. 
+
+Elias Amado Martinez 
+C.C. 79609671 
+
+
