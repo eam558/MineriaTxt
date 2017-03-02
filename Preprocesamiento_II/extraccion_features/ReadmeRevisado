@@ -4,5 +4,5 @@ En este documento vamos a listar los archivos del proyecto que ya corren en pyth
 # get_nombres.py
 #
 # ANOTACIONES
-# 1. Utilice como convencion no usar tildes en comentarios
-# 2. Camie las 'ñ' por 'nh' 
+# 1. Utilizare como convencion no poner tildes en comentarios
+# 2. Cambie las 'ñ' por 'nh' 
