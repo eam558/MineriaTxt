@@ -4,7 +4,7 @@
 Anterior limpieza.py
 Permite darle un scrore a cada archivo para asegurar su procesamientos
 """
-
+import os
 import re
 import numpy as np
 from sklearn.cluster import KMeans
@@ -73,13 +73,19 @@ def get_legibilidad(texto):
 
     return scores
 
+
+pathapp = os.getcwd()
+pathapp = pathapp[0:len(pathapp) - 18]
+
+
 matriz_scores = []
-with open("data/nombres.txt", 'r') as f:
+
+with open(pathapp+"data/nombres.txt", 'r') as f:
     lines = f.readlines()
     nombres_archivos = [x.strip() for x in lines if len(x.strip()) > 0]
     for line in nombres_archivos:
         try:
-            with open("data/limpios" + line, 'r') as fread:
+            with open(pathapp+"data/txtlimpios" + line, 'r') as fread:
                 text = fread.read()
                 if max(list(get_legibilidad(text))) != 0:
                     matriz_scores.append(list(get_legibilidad(text)))
@@ -95,7 +101,7 @@ for k in range (3, 7, 1):
     matriz_clusters = np.hstack((matriz_scores, nro_cluster))
 
 
-    with open("scores_limpios"+str(k)+".txt",'a') as fwrite:
+    with open(pathapp + "data/scores_limpios"+str(k)+".txt",'a') as fwrite:
         fwrite.write("nombre_archivo,score1,score2,score3,score4,score5,score6,nro_cluster")
         for i in range(matriz_clusters.shape[0]):
            fwrite.write(nombres_archivos[i] + "," + str(matriz_clusters[i][0]) + "," + str(matriz_clusters[i][1]) + "," + str(matriz_clusters[i][2]) + "," + str(matriz_clusters[i][3]) + "," + str(matriz_clusters[i][4]) + "," + str(matriz_clusters[i][5]) + "," + str(matriz_clusters[i][6]))

@@ -1,3 +1,7 @@
+"""
+Crear los txt apartitr de los pdf
+"""
+
 import os
 
 os.system("ls > nombres_archivos.txt")

@@ -14,11 +14,14 @@ import os
 
 
 
+
 parser = argparse.ArgumentParser()
 parser.add_argument("-v", "--verbose", help="Mostrar información de depuración", action="store_true")
 parser.add_argument("-f", "--file", help="Nombre de archivo a procesar")
 args = parser.parse_args()
 
+pathapp = os.getcwd()
+pathapp = pathapp[0:len(pathapp) - 18]
 #print(parser.parse_args())
 print(os.getcwd())
 #exit()
@@ -41,13 +44,15 @@ ruta = args.file
 tika.initVM()
 from tika import parser
 
-with open("data/nombres.txt", 'a') as fwrite:
+
+
+with open( pathapp+"data/nombres.txt", 'a') as fwrite:
 	
 	for (path,ficheros,archivos) in walk(ruta):
 		dirrec= path[len(ruta) +1 :len(path)]
-		if not os.path.exists("data/txt/"+dirrec):
-			os.mkdir("data/txt/"+dirrec )
-			os.mkdir("data/txtlimpios/"+dirrec )
+		if not os.path.exists(pathapp + "data/txt/"+dirrec):
+			os.mkdir(pathapp + "data/txt/"+dirrec )
+			os.mkdir(pathapp + "data/txtlimpios/"+dirrec )
 		for archivo in archivos:
 		 	(nombre,extencion)=os.path.splitext(archivo)
 			nombre=nombre.replace(" " ,"_")
@@ -58,7 +63,7 @@ with open("data/nombres.txt", 'a') as fwrite:
 					#print (parsed["metadata"])
 					#print (parsed["content"].encode(sys.stdout.encoding, errors='replace'))
 					if not parsed["content"]  is None:
-						artxtdata=open("data/txt/" +dirrec+ "/" +nombre + ".txt","w")
+						artxtdata=open(pathapp + "data/txt/" +dirrec+ "/" +nombre + ".txt","w")
 						artxtdata.writelines(parsed["content"].encode('utf-8'))
 						artxtdata.close
 					

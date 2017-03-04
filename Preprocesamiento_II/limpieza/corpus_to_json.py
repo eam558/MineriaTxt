@@ -1,3 +1,7 @@
+"""
+crea corpus,json desde corpus.txt
+"""
+
 import collections
 import json
 

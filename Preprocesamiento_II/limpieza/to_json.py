@@ -1,3 +1,6 @@
+"""
+Parte del resumen de los acuerdos de paz bak end
+"""
 import json
 
 def textos_to_json():

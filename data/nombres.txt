@@ -2,5 +2,5 @@ ComprobantePago_CC79609671_1006880249.txt
 Documento_14749005056791.txt
 Hoja_de_vida_4.txt
 2015/Planilla_2017-02.txt
-2015\12/Z2017-02.txt
+2015/12/Z2017-02.txt
 2016/I_Basada_datos.txt

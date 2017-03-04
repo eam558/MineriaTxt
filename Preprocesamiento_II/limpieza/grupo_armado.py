@@ -1,3 +1,7 @@
+"""
+Obtiene de una entravista el grupo armado
+"""
+
 import numpy as np
 
 def get_grupo_armado(text):

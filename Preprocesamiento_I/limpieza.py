@@ -170,20 +170,23 @@ def limpiar_linea(sentence):
 	linea_corregida = linea_corregida.replace(" , ", ",").replace(" . ", ".").replace(" ? ", "?").replace(" ( ", "(").replace(" ) ", ")")
 	return linea_corregida
 
+pathapp = os.getcwd()
+pathapp = pathapp[0:len(pathapp) - 18]
+
 #abre el archivo de corpus 
-with open("Preprocesamiento_I/corpus.json", 'r') as f:	
+with open(pathapp + "Preprocesamiento_I/corpus.json", 'r') as f:
 	NWORDS = json.load(f)
 
-with open("data/nombres.txt", 'r') as f:
+with open( pathapp+ "data/nombres.txt", 'r') as f:
 	lines = f.readlines()
 
 	for line in lines:
 		line=line.rstrip('\n')
 	
-		with open( "data/txt/" +line, 'r') as fread:
+		with open( pathapp + "data/txt/" +line, 'r') as fread:
 			lineas_texto = [x.strip() for x in fread.readlines() if len(x.strip()) > 0]
 			#print(lineas_texto)
-		with open("data/txtlimpios/"+line , 'a') as fwrite:
+		with open(pathapp + "data/txtlimpios/"+line , 'a') as fwrite:
 			for linea in lineas_texto:
 				fwrite.write(limpiar_linea(linea).encode('utf-8'))
 		
