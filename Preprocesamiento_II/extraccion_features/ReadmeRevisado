@@ -1,8 +1,0 @@
-En este documento vamos a listar los archivos del proyecto que ya corren en python 2.7
-# alias_conocidos.py
-# get_alias_conocidos.py
-# get_nombres.py
-#
-# ANOTACIONES
-# 1. Utilizare como convencion no poner tildes en comentarios
-# 2. Cambie las 'ñ' por 'nh' 

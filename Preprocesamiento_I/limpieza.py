@@ -174,7 +174,7 @@ pathapp = os.getcwd()
 pathapp = pathapp[0:len(pathapp) - 18]
 
 #abre el archivo de corpus 
-with open(pathapp + "Preprocesamiento_I/corpus.json", 'r') as f:
+with open(pathapp + "data/json/corpus.json", 'r') as f:
 	NWORDS = json.load(f)
 
 with open( pathapp+ "data/nombres.txt", 'r') as f:

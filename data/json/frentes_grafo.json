@@ -1,0 +1,2447 @@
+{
+    "name": "Grafo Frentes", 
+    "children": [
+        {
+            "name": "", 
+            "children": [
+                {
+                    "name": "mortero", 
+                    "size": 0
+                }, 
+                {
+                    "name": "entierro", 
+                    "size": 0
+                }, 
+                {
+                    "name": "ataque", 
+                    "size": 0
+                }, 
+                {
+                    "name": "inversión", 
+                    "size": 0
+                }, 
+                {
+                    "name": "monto", 
+                    "size": 0
+                }, 
+                {
+                    "name": "fuente", 
+                    "size": 0
+                }, 
+                {
+                    "name": "emboscada", 
+                    "size": 0
+                }
+            ]
+        }, 
+        {
+            "name": "frente 45", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 41
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 127
+                }, 
+                {
+                    "name": "actividad", 
+                    "size": 34
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 45
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 84
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 204
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 61
+                }
+            ]
+        }, 
+        {
+            "name": "frente 47", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 117
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 93
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 62
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 55
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 53
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 306
+                }, 
+                {
+                    "name": "corregimiento", 
+                    "size": 86
+                }
+            ]
+        }, 
+        {
+            "name": "frente 46", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 27
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 12
+                }, 
+                {
+                    "name": "ciudad", 
+                    "size": 8
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 9
+                }, 
+                {
+                    "name": "bloque", 
+                    "size": 7
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 20
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 9
+                }
+            ]
+        }, 
+        {
+            "name": "frente 41", 
+            "children": [
+                {
+                    "name": "mujer", 
+                    "size": 55
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 82
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 39
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 42
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 98
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 91
+                }, 
+                {
+                    "name": "corregimiento", 
+                    "size": 36
+                }
+            ]
+        }, 
+        {
+            "name": "frente 40", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 22
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 81
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 24
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 127
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 28
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 36
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 26
+                }
+            ]
+        }, 
+        {
+            "name": "frente 29", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 20
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 31
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 22
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 34
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 11
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 14
+                }, 
+                {
+                    "name": "corregimiento", 
+                    "size": 12
+                }
+            ]
+        }, 
+        {
+            "name": "frente 28", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 38
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 32
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 27
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 49
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 150
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 23
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 57
+                }
+            ]
+        }, 
+        {
+            "name": "frente policarpa", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 8
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 18
+                }, 
+                {
+                    "name": "actividad", 
+                    "size": 8
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 13
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 10
+                }, 
+                {
+                    "name": "caleta", 
+                    "size": 12
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 63
+                }
+            ]
+        }, 
+        {
+            "name": "frente 26", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 3
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 3
+                }, 
+                {
+                    "name": "base", 
+                    "size": 4
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 3
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 25
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 7
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 6
+                }
+            ]
+        }, 
+        {
+            "name": "frente 25", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 60
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 19
+                }, 
+                {
+                    "name": "actividad", 
+                    "size": 18
+                }, 
+                {
+                    "name": "ciudad", 
+                    "size": 22
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 115
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 16
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 37
+                }
+            ]
+        }, 
+        {
+            "name": "frente 24", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 86
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 142
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 101
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 57
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 79
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 111
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 80
+                }
+            ]
+        }, 
+        {
+            "name": "frente 49", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 40
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 38
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 18
+                }, 
+                {
+                    "name": "departamento", 
+                    "size": 20
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 71
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 23
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 17
+                }
+            ]
+        }, 
+        {
+            "name": "frente 48", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 22
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 62
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 22
+                }, 
+                {
+                    "name": "base", 
+                    "size": 17
+                }, 
+                {
+                    "name": "menor de edad", 
+                    "size": 19
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 62
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 31
+                }
+            ]
+        }, 
+        {
+            "name": "frente 21", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 36
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 44
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 32
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 29
+                }, 
+                {
+                    "name": "ciudad", 
+                    "size": 22
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 112
+                }, 
+                {
+                    "name": "corregimiento", 
+                    "size": 28
+                }
+            ]
+        }, 
+        {
+            "name": "frente amazónico", 
+            "children": [
+                {
+                    "name": "actividad", 
+                    "size": 14
+                }, 
+                {
+                    "name": "droga", 
+                    "size": 11
+                }, 
+                {
+                    "name": "departamento", 
+                    "size": 12
+                }, 
+                {
+                    "name": "remesa", 
+                    "size": 9
+                }, 
+                {
+                    "name": "política", 
+                    "size": 11
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 12
+                }, 
+                {
+                    "name": "corregimiento", 
+                    "size": 28
+                }
+            ]
+        }, 
+        {
+            "name": "frente 8", 
+            "children": [
+                {
+                    "name": "mujer", 
+                    "size": 8
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 21
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 19
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 22
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 14
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 20
+                }, 
+                {
+                    "name": "corregimiento", 
+                    "size": 34
+                }
+            ]
+        }, 
+        {
+            "name": "frente 9", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 83
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 87
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 49
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 39
+                }, 
+                {
+                    "name": "café", 
+                    "size": 57
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 56
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 399
+                }
+            ]
+        }, 
+        {
+            "name": "frente 19", 
+            "children": [
+                {
+                    "name": "secuestro", 
+                    "size": 13
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 33
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 19
+                }, 
+                {
+                    "name": "departamento", 
+                    "size": 24
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 49
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 15
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 19
+                }
+            ]
+        }, 
+        {
+            "name": "frente 44", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 43
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 43
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 50
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 32
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 31
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 25
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 37
+                }
+            ]
+        }, 
+        {
+            "name": "frente 1", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 16
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 13
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 13
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 8
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 16
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 46
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 6
+                }
+            ]
+        }, 
+        {
+            "name": "frente 2", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 7
+                }, 
+                {
+                    "name": "base", 
+                    "size": 9
+                }, 
+                {
+                    "name": "coca", 
+                    "size": 10
+                }, 
+                {
+                    "name": "kilo", 
+                    "size": 24
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 9
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 8
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 5
+                }
+            ]
+        }, 
+        {
+            "name": "frente 3", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 12
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 8
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 20
+                }, 
+                {
+                    "name": "ciudad", 
+                    "size": 2
+                }, 
+                {
+                    "name": "base", 
+                    "size": 4
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 19
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 3
+                }
+            ]
+        }, 
+        {
+            "name": "frente 4", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 139
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 56
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 44
+                }, 
+                {
+                    "name": "departamento", 
+                    "size": 24
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 29
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 45
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 55
+                }
+            ]
+        }, 
+        {
+            "name": "frente 5", 
+            "children": [
+                {
+                    "name": "mortero", 
+                    "size": 8
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 13
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 12
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 9
+                }, 
+                {
+                    "name": "ciudad", 
+                    "size": 10
+                }, 
+                {
+                    "name": "misión", 
+                    "size": 11
+                }, 
+                {
+                    "name": "vehículos", 
+                    "size": 10
+                }
+            ]
+        }, 
+        {
+            "name": "frente 6", 
+            "children": [
+                {
+                    "name": "mujer", 
+                    "size": 5
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 5
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 7
+                }, 
+                {
+                    "name": "emboscada", 
+                    "size": 3
+                }, 
+                {
+                    "name": "matar", 
+                    "size": 6
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 7
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 13
+                }
+            ]
+        }, 
+        {
+            "name": "frente 7", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 80
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 40
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 35
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 123
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 42
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 44
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 31
+                }
+            ]
+        }, 
+        {
+            "name": "frente 43", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 8
+                }, 
+                {
+                    "name": "actividad", 
+                    "size": 17
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 9
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 11
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 13
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 15
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 10
+                }
+            ]
+        }, 
+        {
+            "name": "frente 57", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 20
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 26
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 25
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 28
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 17
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 13
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 13
+                }
+            ]
+        }, 
+        {
+            "name": "frente camilo", 
+            "children": [
+                {
+                    "name": "mujer", 
+                    "size": 26
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 28
+                }, 
+                {
+                    "name": "pistola", 
+                    "size": 25
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 34
+                }, 
+                {
+                    "name": "casa", 
+                    "size": 21
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 98
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 21
+                }
+            ]
+        }, 
+        {
+            "name": "frente tulio", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 17
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 13
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 9
+                }, 
+                {
+                    "name": "actividad", 
+                    "size": 5
+                }, 
+                {
+                    "name": "ciudad", 
+                    "size": 4
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 20
+                }, 
+                {
+                    "name": "corregimiento", 
+                    "size": 12
+                }
+            ]
+        }, 
+        {
+            "name": "frente 59", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 45
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 20
+                }, 
+                {
+                    "name": "departamento", 
+                    "size": 20
+                }, 
+                {
+                    "name": "ciudad", 
+                    "size": 28
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 16
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 20
+                }, 
+                {
+                    "name": "corregimiento", 
+                    "size": 42
+                }
+            ]
+        }, 
+        {
+            "name": "frente 27", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 20
+                }, 
+                {
+                    "name": "actividad", 
+                    "size": 16
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 12
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 12
+                }, 
+                {
+                    "name": "menor de edad", 
+                    "size": 14
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 20
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 33
+                }
+            ]
+        }, 
+        {
+            "name": "frente manuel ", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 43
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 49
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 43
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 63
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 57
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 29
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 64
+                }
+            ]
+        }, 
+        {
+            "name": "frente 400", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 2
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 2
+                }, 
+                {
+                    "name": "departamento", 
+                    "size": 4
+                }, 
+                {
+                    "name": "armamento", 
+                    "size": 2
+                }, 
+                {
+                    "name": "base", 
+                    "size": 1
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 2
+                }, 
+                {
+                    "name": "bloque", 
+                    "size": 4
+                }
+            ]
+        }, 
+        {
+            "name": "frente 50", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 14
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 7
+                }, 
+                {
+                    "name": "ganado", 
+                    "size": 3
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 4
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 7
+                }, 
+                {
+                    "name": "ciudad", 
+                    "size": 8
+                }, 
+                {
+                    "name": "base", 
+                    "size": 5
+                }
+            ]
+        }, 
+        {
+            "name": "frente 39", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 14
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 10
+                }, 
+                {
+                    "name": "departamento", 
+                    "size": 12
+                }, 
+                {
+                    "name": "coca", 
+                    "size": 5
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 5
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 8
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 10
+                }
+            ]
+        }, 
+        {
+            "name": "frente 37", 
+            "children": [
+                {
+                    "name": "secuestro", 
+                    "size": 24
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 75
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 42
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 32
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 27
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 54
+                }, 
+                {
+                    "name": "corregimiento", 
+                    "size": 20
+                }
+            ]
+        }, 
+        {
+            "name": "frente 23", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 7
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 22
+                }, 
+                {
+                    "name": "actividad", 
+                    "size": 7
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 91
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 15
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 29
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 7
+                }
+            ]
+        }, 
+        {
+            "name": "frente abelardo", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 15
+                }, 
+                {
+                    "name": "actividad", 
+                    "size": 10
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 10
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 9
+                }, 
+                {
+                    "name": "ciudad", 
+                    "size": 8
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 20
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 10
+                }
+            ]
+        }, 
+        {
+            "name": "frente 56", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 23
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 39
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 57
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 26
+                }, 
+                {
+                    "name": "actividad", 
+                    "size": 22
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 17
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 34
+                }
+            ]
+        }, 
+        {
+            "name": "frente vladimir", 
+            "children": [
+                {
+                    "name": "retén", 
+                    "size": 5
+                }, 
+                {
+                    "name": "actividad", 
+                    "size": 6
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 5
+                }, 
+                {
+                    "name": "política", 
+                    "size": 6
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 8
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 18
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 6
+                }
+            ]
+        }, 
+        {
+            "name": "frente 32", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 19
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 9
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 10
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 6
+                }, 
+                {
+                    "name": "base", 
+                    "size": 6
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 6
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 37
+                }
+            ]
+        }, 
+        {
+            "name": "frente 33", 
+            "children": [
+                {
+                    "name": "mortero", 
+                    "size": 9
+                }, 
+                {
+                    "name": "granada", 
+                    "size": 18
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 18
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 14
+                }, 
+                {
+                    "name": "pistola", 
+                    "size": 11
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 19
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 20
+                }
+            ]
+        }, 
+        {
+            "name": "frente 34", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 22
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 46
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 47
+                }, 
+                {
+                    "name": "café", 
+                    "size": 19
+                }, 
+                {
+                    "name": "bloque", 
+                    "size": 11
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 46
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 14
+                }
+            ]
+        }, 
+        {
+            "name": "frente 53", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 5
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 6
+                }, 
+                {
+                    "name": "proveedores", 
+                    "size": 3
+                }, 
+                {
+                    "name": "peso", 
+                    "size": 5
+                }, 
+                {
+                    "name": "pistola", 
+                    "size": 3
+                }, 
+                {
+                    "name": "base", 
+                    "size": 6
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 4
+                }
+            ]
+        }, 
+        {
+            "name": "frente 36", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 70
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 16
+                }, 
+                {
+                    "name": "explosivos", 
+                    "size": 11
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 15
+                }, 
+                {
+                    "name": "armamento", 
+                    "size": 12
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 12
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 43
+                }
+            ]
+        }, 
+        {
+            "name": "frente 51", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 7
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 32
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 10
+                }, 
+                {
+                    "name": "explosivos", 
+                    "size": 12
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 10
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 22
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 8
+                }
+            ]
+        }, 
+        {
+            "name": "frente 42", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 40
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 135
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 68
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 39
+                }, 
+                {
+                    "name": "base", 
+                    "size": 57
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 364
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 48
+                }
+            ]
+        }, 
+        {
+            "name": "frente 13", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 37
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 49
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 25
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 23
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 25
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 71
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 31
+                }
+            ]
+        }, 
+        {
+            "name": "frente 10", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 20
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 88
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 20
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 24
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 18
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 21
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 20
+                }
+            ]
+        }, 
+        {
+            "name": "frente joselo", 
+            "children": [
+                {
+                    "name": "municiones", 
+                    "size": 19
+                }, 
+                {
+                    "name": "granada", 
+                    "size": 33
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 28
+                }, 
+                {
+                    "name": "proveedores", 
+                    "size": 69
+                }, 
+                {
+                    "name": "cartucho", 
+                    "size": 60
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 27
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 95
+                }
+            ]
+        }, 
+        {
+            "name": "frente 16", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 15
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 25
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 21
+                }, 
+                {
+                    "name": "departamento", 
+                    "size": 18
+                }, 
+                {
+                    "name": "bloque", 
+                    "size": 14
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 20
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 16
+                }
+            ]
+        }, 
+        {
+            "name": "frente domingo", 
+            "children": [
+                {
+                    "name": "mujer", 
+                    "size": 8
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 22
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 12
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 12
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 11
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 9
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 30
+                }
+            ]
+        }, 
+        {
+            "name": "frente 14", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 52
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 27
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 34
+                }, 
+                {
+                    "name": "departamento", 
+                    "size": 28
+                }, 
+                {
+                    "name": "menor de edad", 
+                    "size": 19
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 25
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 56
+                }
+            ]
+        }, 
+        {
+            "name": "frente 17", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 102
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 31
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 23
+                }, 
+                {
+                    "name": "pistola", 
+                    "size": 22
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 24
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 210
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 43
+                }
+            ]
+        }, 
+        {
+            "name": "frente 31", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 8
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 59
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 26
+                }, 
+                {
+                    "name": "misión", 
+                    "size": 12
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 56
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 16
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 7
+                }
+            ]
+        }, 
+        {
+            "name": "frente cacique", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 21
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 34
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 51
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 31
+                }, 
+                {
+                    "name": "departamento", 
+                    "size": 18
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 28
+                }, 
+                {
+                    "name": "corregimiento", 
+                    "size": 52
+                }
+            ]
+        }, 
+        {
+            "name": "frente 38", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 12
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 7
+                }, 
+                {
+                    "name": "explosivos", 
+                    "size": 7
+                }, 
+                {
+                    "name": "vehículos", 
+                    "size": 10
+                }, 
+                {
+                    "name": "caleta", 
+                    "size": 7
+                }, 
+                {
+                    "name": "venezuela", 
+                    "size": 7
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 7
+                }
+            ]
+        }, 
+        {
+            "name": "frente 58", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 11
+                }, 
+                {
+                    "name": "vacuna", 
+                    "size": 6
+                }, 
+                {
+                    "name": "base", 
+                    "size": 11
+                }, 
+                {
+                    "name": "coca", 
+                    "size": 7
+                }, 
+                {
+                    "name": "misión", 
+                    "size": 10
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 10
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 7
+                }
+            ]
+        }, 
+        {
+            "name": "frente 22", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 24
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 45
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 26
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 22
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 71
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 14
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 22
+                }
+            ]
+        }, 
+        {
+            "name": "frente 20", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 8
+                }, 
+                {
+                    "name": "policía", 
+                    "size": 5
+                }, 
+                {
+                    "name": "ciudad", 
+                    "size": 4
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 6
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 14
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 6
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 5
+                }
+            ]
+        }, 
+        {
+            "name": "frente 15", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 39
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 81
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 35
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 37
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 20
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 55
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 22
+                }
+            ]
+        }, 
+        {
+            "name": "frente 61", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 42
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 30
+                }, 
+                {
+                    "name": "pistola", 
+                    "size": 21
+                }, 
+                {
+                    "name": "base", 
+                    "size": 14
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 17
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 75
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 14
+                }
+            ]
+        }, 
+        {
+            "name": "frente 55", 
+            "children": [
+                {
+                    "name": "municiones", 
+                    "size": 1
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 10
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 8
+                }, 
+                {
+                    "name": "explosivos", 
+                    "size": 1
+                }, 
+                {
+                    "name": "actividad", 
+                    "size": 2
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 2
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 1
+                }
+            ]
+        }, 
+        {
+            "name": "frente 30", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 14
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 4
+                }, 
+                {
+                    "name": "explosivos", 
+                    "size": 3
+                }, 
+                {
+                    "name": "ciudad", 
+                    "size": 8
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 4
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 3
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 4
+                }
+            ]
+        }, 
+        {
+            "name": "frente aurelio", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 19
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 19
+                }, 
+                {
+                    "name": "oro", 
+                    "size": 10
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 45
+                }, 
+                {
+                    "name": "mensual", 
+                    "size": 8
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 7
+                }, 
+                {
+                    "name": "corregimiento", 
+                    "size": 8
+                }
+            ]
+        }, 
+        {
+            "name": "frente 54", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 10
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 5
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 9
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 5
+                }, 
+                {
+                    "name": "misión", 
+                    "size": 4
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 3
+                }, 
+                {
+                    "name": "corregimiento", 
+                    "size": 6
+                }
+            ]
+        }, 
+        {
+            "name": "frente antonio", 
+            "children": [
+                {
+                    "name": "casa", 
+                    "size": 26
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 13
+                }, 
+                {
+                    "name": "barrio", 
+                    "size": 14
+                }, 
+                {
+                    "name": "ciudad", 
+                    "size": 20
+                }, 
+                {
+                    "name": "bomba", 
+                    "size": 9
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 15
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 31
+                }
+            ]
+        }, 
+        {
+            "name": "frente esteban", 
+            "children": [
+                {
+                    "name": "secuestro", 
+                    "size": 17
+                }, 
+                {
+                    "name": "casa", 
+                    "size": 21
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 43
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 32
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 35
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 16
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 136
+                }
+            ]
+        }, 
+        {
+            "name": "frente 35", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 31
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 63
+                }, 
+                {
+                    "name": "organización", 
+                    "size": 27
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 47
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 56
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 35
+                }, 
+                {
+                    "name": "corregimiento", 
+                    "size": 52
+                }
+            ]
+        }, 
+        {
+            "name": "frente 60", 
+            "children": [
+                {
+                    "name": "mujer", 
+                    "size": 11
+                }, 
+                {
+                    "name": "frente", 
+                    "size": 49
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 20
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 28
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 21
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 16
+                }, 
+                {
+                    "name": "campamento", 
+                    "size": 23
+                }
+            ]
+        }, 
+        {
+            "name": "frente 18", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 16
+                }, 
+                {
+                    "name": "grupos", 
+                    "size": 23
+                }, 
+                {
+                    "name": "proveedores", 
+                    "size": 11
+                }, 
+                {
+                    "name": "cartucho", 
+                    "size": 11
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 13
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 39
+                }, 
+                {
+                    "name": "corregimiento", 
+                    "size": 16
+                }
+            ]
+        }, 
+        {
+            "name": "frente 66", 
+            "children": [
+                {
+                    "name": "frente", 
+                    "size": 19
+                }, 
+                {
+                    "name": "milicias", 
+                    "size": 20
+                }, 
+                {
+                    "name": "pistola", 
+                    "size": 14
+                }, 
+                {
+                    "name": "café", 
+                    "size": 10
+                }, 
+                {
+                    "name": "fusil", 
+                    "size": 28
+                }, 
+                {
+                    "name": "vereda", 
+                    "size": 20
+                }, 
+                {
+                    "name": "finca", 
+                    "size": 6
+                }
+            ]
+        }
+    ]
+}

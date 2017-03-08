@@ -7,3 +7,6 @@ pip install tika
 pip install scipy
 pip install numpy
 pip install -U scikit-learn
+
+sudo pip2 install pandas o sudo apt-get install python-pandas
+sudo pip2 install  nltk
