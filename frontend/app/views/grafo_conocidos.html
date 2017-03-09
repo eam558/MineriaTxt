@@ -1,0 +1,102 @@
+<div ng-controller="GrafoConocidosCtrl" ng-init="init()">
+	<h2>Red de individuos</h2>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-2">
+        <div class="form-group">
+          <label for="sel1">Por individuo:</label>
+          <select class="form-control" id="sel1" ng-model="tipo_individuo_conocidos">
+            <option>Nombre</option>
+            <option>Alias</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="col-md-5">
+        <div class="form-group">
+          <label class="control-label" for="individuo"></label>
+          <input type="text" class="form-control" id="individuo" placeholder="Escriba el nombre o alias" ng-model="individuo_conocidos">
+        </div>
+      </div>
+
+      <div class="col-md-5">
+        <br/>
+        <form class="form-inline">
+          <div class="form-group"> 
+            <button type="button" class="btn btn-primary btn-md" ng-click="pintarGrafoConocidos()">Buscar</button>
+          </div>
+          <div class="form-group"> 
+            <button type="button" class="btn btn-primary btn-md" ng-click="limpiarConocidos()">Limpiar</button>
+          </div>
+        </form>
+      </div>
+
+    </div>
+  </div>
+  <div id="title">
+    <h3>{{nombre_escogido}}</h3> 
+  </div>
+
+  <div class="table_container">
+    <div class="row col-md-4" ng-show="mostrarTabla">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4>
+            Frentes relacionados:
+          </h4>
+        </div>
+        <table class="table table-fixed">
+          <tbody>
+            <tr ng-repeat="x in frentes_relacionados">
+              <td class="col-xs-12" ng-click="mostrarGrafo(x)">{{x}}</td> 
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="panel panel-default" ng-show="mostrarInfo">
+        <div class="panel-heading">
+          <h4>
+            Información sobre el nodo:
+          </h4>
+        </div>
+        <table class="table table-fixed">
+          <tbody>
+            <tr>
+              <td class="col-xs-12"><strong>Nombre o alias</strong></td>
+            </tr>
+            <tr>
+              <td class="col-xs-12">{{individuo_nodo}}</td> 
+            </tr>
+            <tr>
+              <td class="col-xs-12"><strong>Entrevista relacionada</strong></td>
+            </tr>
+            <tr>
+              <td class="col-xs-12">{{entrevista_nodo}}</td> 
+            </tr>
+            <tr>
+              <td class="col-xs-12"><strong>Cargo</strong></td>
+            </tr>
+            <tr>
+              <td class="col-xs-12">{{cargo_nodo}}</td> 
+            </tr>
+            <tr>
+              <td class="col-xs-12"><strong>Estructura</strong></td> 
+            </tr>
+            <tr>
+              <td class="col-xs-12">{{estructura_nodo}}</td> 
+            </tr>
+            <tr>
+              <td class="col-xs-12"><strong>Tipo de nodo</strong></td>
+            </tr>
+            <tr>
+              <td class="col-xs-12">{{type_nodo}}</td> 
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div class="col-md-8" id="grafo"></div>
+  </div>
+
+</div>
+

@@ -1,0 +1,62 @@
+<div ng-controller="GrafoActividadesCtrl" ng-init="init()">
+  <h2>Grafo de actividades</h2>
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-4">
+        <div class="form-group">
+          <label class="control-label" for="frente">Por frente:</label>          
+          <input type="text" class="form-control" id="frente" placeholder="Escriba el nombre del frente" ng-model="frente_actividades">
+        </div>
+      </div>
+
+
+       <div class="col-md-4">
+        <div class="form-group">
+          <label class="control-label" for="actividad">Por actividad:</label>          
+          <input type="text" class="form-control" id="actividad" placeholder="Escriba el nombre de la actividad" ng-model="actividad_actividades">
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <br/>
+        <form class="form-inline">
+          <div class="form-group"> 
+            <button type="button" class="btn btn-primary btn-md" ng-click="pintarGrafoActividades()">Buscar</button>
+          </div>
+          <div class="form-group"> 
+            <button type="button" class="btn btn-primary btn-md" ng-click="limpiarActividades()">Limpiar</button>
+          </div>
+        </form>
+      </div>
+
+    </div>
+  </div>
+
+  <div align="center">{{excepcion}}</div>
+  <div class="container">
+    <div class="row">
+
+    <div class="col-md-10">
+      <div class="form-group">
+
+        <div id="grafo2"></div>
+
+        </div>
+      </div>
+
+      <div class="col-md-2">
+      <div class="form-group" ng-show="mostrarContexto">
+        
+       	   <label for="textarea">Cita textual:</label>
+       	  <textarea cols="40" rows="8" name="textarea" id="textarea" align = "justify">{{contexto}}</textarea>
+       
+      </div>
+      </div>
+
+
+      
+    </div>
+  </div>
+
+

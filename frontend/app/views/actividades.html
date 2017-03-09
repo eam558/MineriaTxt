@@ -1,0 +1,9 @@
+<div ng-controller="ActividadesCtrl" ng-init="init()">
+	<h2>Actividades más referenciadas por frente</h2>
+	<div id="activities" class="col-md-12">
+		<svg id="burbuja" width="960" height="960"></svg>
+	</div>
+	<div class="form-group" ng-show="mostrarBoton"> 
+	    <button type="button" class="btn btn-primary btn-md" ng-click="redirect()">Ir al grafo del frente</button>
+	</div>
+</div>
