@@ -1,15 +1,6 @@
-
-#!/usr/bin/env python
-# _*_ coding: utf-8 _*_
-import json
-import os
-import sys
+import json 
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-
-#reload(sys)
-#print sys.getdefaultencoding()
-#sys.setdefaultencoding('utf8')
 
 """
 Para correr este script (montar el backend) hay que poner en la línea de comando: 
@@ -34,20 +25,18 @@ cors = CORS(app, resources={r"/*": {"origins": "*"}})
 
 #Esto es un ejemplo de cómo se cargan los datos de un repositorio de datos 
 
-pathapp = os.getcwd()
-#print(pathapp)
-pathapp = pathapp[0:len(pathapp) - 7]
 
-with open(pathapp+'data/json/grafo_conocidos.json',encoding='utf8') as f:
+
+with open('/home/figo/Documentos/EJER/docs_sala_de_crisis/data/grafo_conocidos.json') as f:
 	grafo_conocidos = json.load(f)
 
-with open(pathapp+'data/json/frentes_grafo.json',encoding='utf8') as f: #frentes_grafo
+with open('/home/figo/Documentos/EJER/docs_sala_de_crisis/data/actividades.json') as f: #frentes_grafo
 	burbuja = json.load(f)	
 
-with open(pathapp+'data/json/grafo_heatmap.json',encoding='utf8') as f:
+with open('/home/figo/Documentos/EJER/docs_sala_de_crisis/data/grafo_heatmap.json') as f:
 	mapa = json.load(f)	
 
-with open(pathapp+'data/json/grafo_actividades_nuevo.json',encoding='utf8') as f:
+with open('/home/figo/Documentos/EJER/docs_sala_de_crisis/data/grafo_actividades_nuevo.json') as f:
 	importante = json.load(f)	
 
 """
