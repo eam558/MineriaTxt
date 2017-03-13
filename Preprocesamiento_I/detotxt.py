@@ -10,6 +10,7 @@ import sys
 import argparse
 from os import walk
 import os
+import shutil
 
 
 
@@ -19,6 +20,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-v", "--verbose", help="Mostrar información de depuración", action="store_true")
 parser.add_argument("-f", "--file", help="Nombre de archivo a procesar")
 args = parser.parse_args()
+
 
 pathapp = os.getcwd()
 pathapp = pathapp[0:len(pathapp) - 18]
@@ -30,12 +32,12 @@ if args.file ==None:
 	print ("Debe digitar la ruta -f [ruta]")
 	exit()
 
-#exit()
-#if args.verbose:
-#    print ("depuración activada!!!")
+exit()
+if args.verbose:
+    print ("depuración activada!!!")
 
-#if args.file:
- #  print ("El nombre de la carpeta a procesar es: ", args.file)
+if args.file:
+  print ("El nombre de la carpeta a procesar es: ", args.file)
 
 
 #print(os.getcwd())	
@@ -66,7 +68,8 @@ with open( pathapp+"data/nombres.txt", 'a') as fwrite:
 						artxtdata=open(pathapp + "data/txt/" +dirrec+ "/" +nombre + ".txt","w")
 						artxtdata.writelines(parsed["content"].encode('utf-8'))
 						artxtdata.close
-					
+					else:
+						shutil.copy(path +"/"+ archivo, pathapp + "data/txt/error/" + archivo )
 					#artxmeta=open(path +"/" + nombre + "meta.txt","w")
 					#artxmeta.writelines(parsed["metadata"])
 					#artxmeta.close

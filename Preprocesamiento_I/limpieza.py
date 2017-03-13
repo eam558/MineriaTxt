@@ -5,6 +5,14 @@ import re
 import json
 import pdb
 import os
+import sys
+import argparse
+import datetime
+
+# ajusto el sistema a utf8
+reload(sys)
+#print sys.getdefaultencoding()
+sys.setdefaultencoding('latin-1')
 
 one_word_conjunction = ['y', 'a', 'e', 'o', 'u']
 char_end_allowed = ['a', 'e', 'o', 'u', 'n', 'r', 's', 'l']
@@ -173,20 +181,45 @@ def limpiar_linea(sentence):
 pathapp = os.getcwd()
 pathapp = pathapp[0:len(pathapp) - 18]
 
+
+
+
+parser = argparse.ArgumentParser()
+parser.add_argument("-v", "--verbose", help="Mostrar información de depuración", action="store_true")
+parser.add_argument("-f", "--file", help="Nombre de archivo a procesar")
+args = parser.parse_args()
+
+archivo = args.file
+
+conteo=0
+print pathapp
 #abre el archivo de corpus 
 with open(pathapp + "data/json/corpus.json", 'r') as f:
 	NWORDS = json.load(f)
 
-with open( pathapp+ "data/nombres.txt", 'r') as f:
+with open( pathapp+ "data/" + archivo , 'r') as f:
 	lines = f.readlines()
-
+	print datetime.datetime.now()
 	for line in lines:
+		conteo +=1
+
 		line=line.rstrip('\n')
-	
+		line = line.rstrip('\r')
 		with open( pathapp + "data/txt/" +line, 'r') as fread:
-			lineas_texto = [x.strip() for x in fread.readlines() if len(x.strip()) > 0]
-			#print(lineas_texto)
-		with open(pathapp + "data/txtlimpios/"+line , 'a') as fwrite:
-			for linea in lineas_texto:
-				fwrite.write(limpiar_linea(linea).encode('utf-8'))
-		
+			try:
+				#lineas_texto = [x.strip() for x in fread.readlines() if len(x.strip()) > 0]
+				lineas_texto=[]
+				for x in fread.readlines():
+					linea = x.strip()
+					if len(linea) > 0:
+						lineas_texto.append(limpiar_linea(linea))
+
+				with open(pathapp + "data/txtlimpios/" + line, 'a') as fwrite:
+					fwrite.writelines(lineas_texto)
+					#.encode('latin-1')
+			except:
+				continue
+
+		if conteo in [1,2, 10, 50, 100, 500, 800, 1000,1500,2000,2500]:
+			print(conteo)
+	print datetime.datetime.now()
